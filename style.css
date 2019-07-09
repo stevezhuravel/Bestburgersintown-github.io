@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family : sans-serif;
+}
+body{
+    background: "80FF33";
+}
+
+.header{
+    background-color : black;
+    color:yellowgreen;
+    text-align: right;
+    padding: 1s0px;
+}
