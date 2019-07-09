@@ -4,17 +4,17 @@
     font-family : sans-serif;
 }
 body{
-    background-color: rgb(168, 255, 127);
+    background-color: aquamarine;
 }
 a{
     text-decoration: none;
     color: white;
 }
 h1, h2, h3, h4, h5, h6 {
-    color: black;
+    color: goldenrod;
 }
 .header{
-    background-color : goldenrod;
+    background-color : greenyellow;
     text-align: right;
     padding: 1s0px;
 }
